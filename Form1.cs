@@ -66,7 +66,7 @@ namespace twitterBot
 
 
             string ad = "", sifre = "";
-            string hastang = "#movies #movie #film #trailer #dizi #tvshow #sinema #cinema #fragman #anime #animeart #poster #films #beyazfilmm #sanat #Netflix #netflixturkey  ";
+            string hastang = "";
             string gelen = "";
             string tweet = "";
 
